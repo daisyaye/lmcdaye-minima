@@ -1,18 +1,13 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Daisy Aye is a Certified Leadership and Performance Coach. 
+She discovered the magic of coaching through being coached. 
+Since 2026, she's been dedicated to the art of coaching in support of that kind of magic.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+With over 26 years of corporate experience driving innovation through delivery of complex technology across telecommunications, enterprise IT and cloud computing industries, 
+Daisy is happy to support established professionals in their personal growth and career development through her coaching practice.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
